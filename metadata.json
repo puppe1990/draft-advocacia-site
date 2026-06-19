@@ -1,0 +1,6 @@
+{
+  "name": "Portal Advocacia Premium",
+  "description": "Template profissional de site jurídico para advogados e escritórios de advocacia, com agendamento online integrado, destaque de especialidades e botões inteligentes de WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
